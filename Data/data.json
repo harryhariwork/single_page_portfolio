@@ -1,0 +1,115 @@
+{
+    "personalInfo": {
+      "name": "Karthick rajan S",
+      "designation": "Frontend Developer",
+      "about": [
+        "Founder of Caliber Tech & Folio Lynkr, freelancing fullstack developer in MERN stack, frontend developer in NEXT JS and also a videographer",
+        "I am a engineering student who is currently pursuing BE Computer Science in Kongu Enginnering College in Tamil Nadu. Iam a fullstack developer who works in MERN stack technology and also a frontend developer in NEXT JS frame work. Started Caliber Tech and did some projects for small vendors, Worked on many freelancing projects which are listed below in this web page. Won competitions in web development and also participated in Smart India Hackathon 2023.",
+        "Download my resume by clicking the button"
+      ],
+      "resumeLink": "https://drive.usercontent.google.com/download?id=1aFwuoxRl8SetHyDoY6pxV_aJKLE9GSer&export=download&authuser=0"
+    },
+    "education": [
+      {
+        "institution": "Kongu Engineering College",
+        "degree": "Bachelor of Engineering in Computer Science and Engineering",
+        "score": "GPA: 7.34",
+        "duration": "Nov. 2021 – May 2025"
+      },
+      {
+        "institution": "Rasi International CBSE School",
+        "degree": "Higher Secondary Certificate (HSC)",
+        "score": "83.6 Percentage",
+        "duration": "May 2020 – April 2021"
+      },
+      {
+        "institution": "Sri Vidya Mandir CBSE School",
+        "degree": "Secondary School Leaving Certificate (SSLC)",
+        "score": "83.2 Percentage",
+        "duration": "May 2018 – April 2021"
+      }
+    ],
+    "contact": {
+      "email": "karthick1242004@gmail.com",
+      "phone": "+91 63826 82378",
+      "location": "Salem, Tamil Nadu, India",
+      "social": {
+        "github": "https://github.com/Karthick1242004",
+        "linkedin": "https://www.linkedin.com/in/karthickrajan-s/"
+      }
+    },
+  "projects": [
+    {
+      "id": 1,
+      "image": "https://karthickrajans.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffolio.312f0ad8.png&w=2048&q=75",
+      "content": "Folio Lynkr is a platform that allows you to create a portfolio website in minutes. As a user you can select a template which suits you the best and then fill out the form which asks for the details you want to add in your portfolio then pay and host your portfolio website on our platform itself",
+      "demoLink": "https://folio-lynkr-main.vercel.app/",
+      "githubLink": "https://www.linkedin.com/posts/karthickrajan-s_hey-everyone-guess-what-im-cooking-activity-7281669138295541761-Sjqd",
+      "isHovered": false
+    },
+    {
+      "id": 2,
+      "image": "https://karthickrajans.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcalibervercel.efea96e4.png&w=2048&q=75",
+      "content": "Caliber Tech is a web based startup which provides web pages for small shops and vendors in affordable price with unaffordable quality. Here the user can also buy source codes for the websites which are already developed and hosted on Folio Lynkr",
+      "demoLink": "https://calibertech.vercel.app/",
+      "githubLink": "https://github.com/Karthick1242004",
+      "isHovered": false
+    },
+    {
+      "id": 3,
+      "image": "https://karthickrajans.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmac-os.8db8b292.png&w=2048&q=75",
+      "content": "This is a portfolio template which is completley developed based on macOS used in macbook, a dynamic website which consist of main macos features like login,shutdown, terminal, browser, VS-Code, Notes App, Safari,Control Center etc, this even has its app listed as projects done. This project challenged the CSS skills of mine and knowledge.",
+      "demoLink": "https://caliber-macos-portfolio.netlify.app/",
+      "githubLink": "https://www.linkedin.com/posts/karthickrajan-s_you-might-be-wondering-why-is-this-guy-showing-activity-7266497433839255552-YzRf/?utm_source=share&utm_medium=member_desktop",
+      "isHovered": false
+    },
+    {
+      "id": 4,
+      "image": "https://karthickrajans.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnetflix.4be6be86.png&w=2048&q=75",
+      "content": "This Netflix website clone was developed as a comprehensive project aimed at honing skills in API fetching, posting data, rendering components across various pages, and implementing backend APIs for handling email and password data using MongoDB with Node and Express. It gave valuable insights into managing states and utilizing hooks effectively.",
+      "demoLink": "https://netflix124-clone.vercel.app/",
+      "githubLink": "https://github.com/Karthick1242004/Netflix-Clone-App",
+      "isHovered": false
+    },
+    {
+      "id": 5,
+      "image": "https://karthickrajans.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgemini.6436c8af.png&w=2048&q=75",
+      "content": "We developed a REACT website that utilizes GEMINI AI to provide details about the latest disease outbreaks worldwide. Since GEMINI AI doesn't provide real-time data, we integrated updated news from the W.H.O. website to fetch disease details. It gave valuable insights into using API and utilizing AI in real-world problems effectively.",
+      "demoLink": "https://www.linkedin.com/posts/karthickrajan-s_disease-outbreak-generator-using-gemini-ai-activity-7206879304855486464--29K/?utm_source=share&utm_medium=member_desktop",
+      "githubLink": "https://github.com/Karthick1242004/gemini-disease-outbreak-monitor",
+      "isHovered": false
+    },
+    {
+      "id": 6,
+      "image": "https://karthickrajans.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcog.c3fd26a9.png&w=2048&q=75",
+      "content": "As a part of Web-App event conducted by 'EHORYZON2024' we developed a Vehicle Management System for our college vehicles with a feature of notifying the drivers and VMS admin about next service date via SMS. This application utilizes a public API called Twilio to send messages to the mentioned drivers via our website. We got 3rd prize.",
+      "demoLink": "https://kec-vms.vercel.app/",
+      "githubLink": "https://github.com/Karthick1242004/KEC_Updated_VMS",
+      "isHovered": false
+    },
+    {
+      "id": 7,
+      "image": "https://karthickrajans.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frobooo.0ad53c0c.png&w=2048&q=75",
+      "content": "This is a prototype showcasing my first integration of a 3D model in NextJS. Utilizing Blender, Spline, and Three.js, I successfully brought a 3D immersive robot into the web platform. This project provided valuable hands-on experience with Blender and Spline, while Three.js enhanced my understanding of orbit control and scene management.",
+      "demoLink": "https://caliber-3d.vercel.app/",
+      "githubLink": "https://github.com/Karthick1242004/3d_robo",
+      "isHovered": false
+    },
+    {
+      "id": 8,
+      "image": "https://karthickrajans.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fportfolio.46875801.png&w=2048&q=75",
+      "content": "This is a prototype showcasing my first integration of a 3D model in ReactJS. Utilizing Blender, Spline, and Three.js, I successfully brought a 3D immersive game world to the web platform. This project provided valuable hands-on experience with Blender and Spline, while Three.js enhanced my understanding of orbit control and scene management.",
+      "demoLink": "https://www.linkedin.com/posts/karthickrajan-s_webdevelopment-threejs-blenderart-activity-7157677820071084032-hqvw/?utm_source=share&utm_medium=member_desktop",
+      "githubLink": "https://github.com/Karthick1242004/3Dportfolio",
+      "isHovered": false
+    },
+    {
+      "id": 9,
+      "image": "https://karthickrajans.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Finsta.aa8bee74.png&w=2048&q=75",
+      "content": "This is an Instagram clone created using the NEXT JS framework. This is my first project in NEXT JS. It is just a complete frontend clone of Instagram. It gave a brief knowledge about the NEXT JS project structure, routing, and rendering components across pages. It was a great experience in frontend development.",
+      "demoLink": "https://www.linkedin.com/posts/karthickrajan-s_nextjs-frontenddevelopment-instagramclone-activity-7157236046735310848-gMrq/?utm_source=share&utm_medium=member_desktop",
+      "githubLink": "https://github.com/Karthick1242004/Instagram-Clone",
+      "isHovered": false
+    }
+  ]
+}
